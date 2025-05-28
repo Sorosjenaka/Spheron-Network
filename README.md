@@ -40,9 +40,10 @@ Minimum Hardware Specifics
   ```
   # Generate & Start Your Fizz Node
   * You must generate command in website
-
+![alt text](?raw=true)
   # Check Logs
   ```
   sphnctl fizz logs
   ```
+  ![alt text](?raw=true)
   
