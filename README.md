@@ -40,10 +40,12 @@ Minimum Hardware Specifics
   ```
   # Generate & Start Your Fizz Node
   * You must generate command in website
-![alt text](?raw=true)
+
+  
+![alt text](https://github.com/Sorosjenaka/Spheron-Network/blob/main/Screenshot%202025-05-28%20100718.png?raw=true)
   # Check Logs
   ```
   sphnctl fizz logs
   ```
-  ![alt text](?raw=true)
+  ![alt text](https://github.com/Sorosjenaka/Spheron-Network/blob/main/Screenshot%20(87).png?raw=true)
   
